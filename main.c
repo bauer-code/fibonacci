@@ -1,5 +1,5 @@
 
-/*
+
 // Fibonacci Recursão
 #include <stdio.h>
 int fib(int n)
@@ -18,8 +18,7 @@ int main()
 
 
 
-*/
-
+/*
 // Fibonacci Programação Dinâmica
 #include <stdio.h> 
 int fib(int n)
@@ -46,4 +45,4 @@ int main()
   printf("%d", fib(n));
   return 0;
 }
-
+*/
