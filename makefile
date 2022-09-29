@@ -1,3 +1,3 @@
 GCC = gcc
-main: main.c fibonnacci.c
+main: main.c 
 	$(GCC) $^ -g -lm -o $@ 
